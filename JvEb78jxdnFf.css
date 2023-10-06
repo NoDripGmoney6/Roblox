@@ -1,0 +1,6 @@
+input[type="range"] {
+            width: 40%;
+            height: 22px;
+            background-color: blue;
+            outline: none;
+        }
